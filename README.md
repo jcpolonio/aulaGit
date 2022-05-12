@@ -1,8 +1,7 @@
 # Titulo do meu README
 
 Descrição do meu README
-xxxxxx xxx   xyyyyyxy
-yxyxyxyx 1234xyxyxy456
+Este é o texto do subtitulo e nao esta formatado de forma distinta. Texto puro.
 
 ## Para que serve este arquivo
 
