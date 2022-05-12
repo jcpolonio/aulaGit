@@ -6,6 +6,5 @@ yxyxyxyx 1234xyxyxy456
 
 ## Para que serve este arquivo
 
-xxxxxxxxxxx
-xxxxxx
-xxxxx. 123
+Exemplo de como utilizar o arquivo README.
+JCP
